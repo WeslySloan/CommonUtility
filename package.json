@@ -1,0 +1,13 @@
+{
+    "name": "com.khs.utility",
+    "version": "1.0.0",
+    "displayName": "My Common Code",
+    "description": "Common Manager class",
+    "unity": "2022.3",
+    "dependencies": {
+        "com.unity.cinemachine": "1.7.0"
+    },
+    "author":{
+        "name":"KHS"
+    }
+}
